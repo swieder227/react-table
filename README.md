@@ -1,3 +1,7 @@
+```
+Note: This is a fork of react-table@6.7.6. Builds the latest commits and includes built files.
+```
+
 <div style="text-align:center;">
   <a href="https://github.com/react-tools/react-table" target="\_parent"><img src="https://github.com/react-tools/media/raw/master/logo-react-table.png" alt="React Table Logo" style="width:450px;"/></a>
 </div>
